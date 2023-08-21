@@ -1,0 +1,25 @@
+{
+  "dependencies": {
+    "webpack": "^5.88.2",
+    "webpack-cli": "^5.1.4"
+  },
+  "name": "w9d1",
+  "description": "In this practice, you will implement the classic game Asteroids.",
+  "version": "1.0.0",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/elevenstand7/w9d1.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/elevenstand7/w9d1/issues"
+  },
+  "homepage": "https://github.com/elevenstand7/w9d1#readme"
+}
